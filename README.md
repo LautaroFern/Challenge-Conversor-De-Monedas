@@ -2,9 +2,13 @@
 
 ![Logo](./assets/Badge-Conversor.png)
 
-<h2> Descripcion del proyecto </h2> 😃:
+<h2> Descripcion del proyecto 😃 </h2>
 <p> Este es un proyecto en el cual aprendemos y hacemos uso de la biblioteca de GSON para poder manejar y utilizar los datos proporcionados 
 por la API https://www.exchangerate-api.com/, este proyecto realiza la conversion de una moneda a otra ambas elegidas por el usuario entre 6 opciones disponibles.
 </p>
 
-<h3></h3>
+<h3> Usos del proyecto </h3>
+<p> Se muestra como se realiza la conversion de 500 USD a ARS (Pesos Argentinos)</p>
+
+![Proyect](./assets/Screen1.png)
+
