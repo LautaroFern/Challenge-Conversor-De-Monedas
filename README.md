@@ -1,6 +1,6 @@
 <h1> # CONVERSOR DE MONEDAS </h1>
 
-
+![image](.assets/Badge-Conversor.png)
 
 <h2> Descripcion del proyecto </h2>
 <p> Este es un proyecto en el cual aprendemos y hacemos uso de la biblioteca de GSON para poder manejar y utilizar los datos proporcionados 
