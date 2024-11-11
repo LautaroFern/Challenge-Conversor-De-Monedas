@@ -10,5 +10,5 @@ por la API https://www.exchangerate-api.com/, este proyecto realiza la conversio
 <h3> Usos del proyecto </h3>
 <p> Se muestra como se realiza la conversion de 500 USD a ARS (Pesos Argentinos)</p>
 
-![Proyect](./assets/Screen1.png)
+![Proyect](./assets/Screen+1.png)
 
